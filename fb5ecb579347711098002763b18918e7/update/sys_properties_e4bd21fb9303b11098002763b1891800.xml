@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Number of hours before reservation starts to send remainder to the requester.</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>sn_loaner_request.return_remind_time</name>
+        <read_roles>sn_loaner_request.admin</read_roles>
+        <suffix>return_remind_time</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-18 11:04:00</sys_created_on>
+        <sys_id>e4bd21fb9303b11098002763b1891800</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_loaner_request.return_remind_time</sys_name>
+        <sys_package display_value="Loaner Request" source="sn_loaner_request">fb5ecb579347711098002763b18918e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">fb5ecb579347711098002763b18918e7</sys_scope>
+        <sys_update_name>sys_properties_e4bd21fb9303b11098002763b1891800</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-18 11:04:00</sys_updated_on>
+        <type>integer</type>
+        <value>24</value>
+        <write_roles>sn_loaner_request.admin</write_roles>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=e4bd21fb9303b11098002763b1891800"/>
+</record_update>
