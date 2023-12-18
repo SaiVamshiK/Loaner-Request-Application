@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description>Used to trigger an email to remind a user to pick up their loaner item</description>
+        <event_name>sn_loaner_request.pickUp</event_name>
+        <fired_by>Scheduled Script Execution - Loaner Item Pick Up</fired_by>
+        <priority>100</priority>
+        <queue/>
+        <suffix>pickUp</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-18 12:36:59</sys_created_on>
+        <sys_id>72738e379383b11098002763b189189f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_loaner_request.pickUp</sys_name>
+        <sys_package display_value="Loaner Request" source="sn_loaner_request">fb5ecb579347711098002763b18918e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">fb5ecb579347711098002763b18918e7</sys_scope>
+        <sys_update_name>sysevent_register_72738e379383b11098002763b189189f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-18 12:36:59</sys_updated_on>
+        <table>sn_loaner_request_loaner_request</table>
+    </sysevent_register>
+</record_update>
